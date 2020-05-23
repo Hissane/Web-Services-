@@ -6,4 +6,4 @@
 
 - [El Mehdi ASSALI](https://www.linkedin.com/in/assalielmehdi) - At the time of his study at ENSIMAG
 
-- [Mohamed SEBTI](https://www.linkedin.com/in/mohamed-sebti-16777b64/) - At the time of his study at CentraleSupelec
+
