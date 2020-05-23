@@ -41,9 +41,9 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
         // Get current position of item in recyclerview to bind data and assign values from list
         MyHolder myHolder= (MyHolder) holder;
         Contact current=data.get(position);
-        myHolder.textId.setText("ID: " + current.idcontact);
-        myHolder.textNom.setText("Nom: " + current.nom);
-        myHolder.textPrenom.setText("Prenom: " + current.prenom);
+        myHolder.textId.setText(" " + current.idcontact);
+        myHolder.textNom.setText(" " + current.nom);
+        myHolder.textPrenom.setText(" " + current.prenom);
 
 
     }
